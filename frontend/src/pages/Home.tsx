@@ -35,9 +35,6 @@ const Home = () => {
                 <Button size="3" asChild>
                   <Link to="/login">{t('home.getStarted')}</Link>
                 </Button>
-                <Button size="3" asChild>
-                  <a href="https://github.com/zaunist/xugou" target="_blank" rel="noopener noreferrer">{t('home.learnMore')}</a>
-                </Button>
               </>
             )}
           </Flex>
