@@ -9,8 +9,8 @@ crons = ["* * * * *"]
 
 [[d1_databases]]
 binding = "DB"
-database_name = "jk-backend-d1"
-database_id = "050c0d78-33ff-405d-9c46-6e998cac8801"
+database_name = "111"
+database_id = "111"
 
 [version_metadata]
 binding = "CF_VERSION_METADATA"
