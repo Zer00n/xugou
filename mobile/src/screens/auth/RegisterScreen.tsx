@@ -103,7 +103,7 @@ const RegisterScreen: React.FC = () => {
       <ScrollView contentContainerStyle={styles.content}>
         <View style={styles.headerContainer}>
           <Text style={styles.title}>{t('auth.register')}</Text>
-          <Text style={styles.subtitle}>XUGOU 监控</Text>
+          <Text style={styles.subtitle}>Zer0Tools 监控</Text>
         </View>
         
         <View style={styles.formContainer}>

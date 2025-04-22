@@ -528,7 +528,7 @@ const zhCN = {
     'register.error.tryAgain': '注册失败，请稍后再试',
     
     // 页脚
-    'footer.copyright': '© {year} XUGOU. 保留所有权利。',
+    'footer.copyright': '© {year} Zer0Tools. 保留所有权利。',
     'footer.blog': '博客',
     'footer.youtube': '油管频道',
     'footer.tempMail': '24小时临时邮箱',

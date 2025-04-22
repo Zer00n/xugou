@@ -86,7 +86,7 @@ const LoginScreen: React.FC = () => {
             <Ionicons name="settings-outline" size={24} color="#666" />
           </TouchableOpacity>
           <Text style={styles.title}>{t('auth.login')}</Text>
-          <Text style={styles.subtitle}>XUGOU 监控</Text>
+          <Text style={styles.subtitle}>Zer0Tools 监控</Text>
         </View>
         
         <View style={styles.formContainer}>

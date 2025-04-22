@@ -49,7 +49,7 @@ const Navbar = () => {
                 <Box className="navbar-logo">
                   <PieChartIcon width="20" height="20" />
                 </Box>
-                <Text size="4" weight="bold">XUGOU</Text>
+                <Text size="4" weight="bold">Zer0Tools</Text>
               </Flex>
             </Link>
             

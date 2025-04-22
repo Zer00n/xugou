@@ -473,7 +473,7 @@ export default {
   
   // 设置向导
   setup: {
-    welcome: '欢迎使用XUGOU监控',
+    welcome: '欢迎使用监控',
     firstTimeSetup: '首次使用设置',
     continue: '继续',
   },
