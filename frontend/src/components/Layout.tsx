@@ -34,15 +34,15 @@ const Layout = ({ children }: LayoutProps) => {
             <Flex justify="center" align="center" py="3" direction="column">
               <Text size="2" color="gray">{t('footer.copyright', { year: currentYear })}</Text>
               <Flex gap="3" mt="2">
-                <a href="https://zaunist.com" target="_blank" rel="noopener noreferrer" className="footer-link">
+                <a href="" target="_blank" rel="noopener noreferrer" className="footer-link">
                   <FontAwesomeIcon icon={faRss} size="lg" className="footer-link-icon" />
                   <Text size="2">{t('footer.blog')}</Text>
                 </a>
-                <a href="https://www.youtube.com/@zaunist" target="_blank" rel="noopener noreferrer" className="footer-link">
+                <a href="" target="_blank" rel="noopener noreferrer" className="footer-link">
                   <FontAwesomeIcon icon={faYoutube} size="lg" className="footer-link-icon" />
                   <Text size="2">{t('footer.youtube')}</Text>
                 </a>
-                <a href="https://mail.mdzz.uk" target="_blank" rel="noopener noreferrer" className="footer-link">
+                <a href="h" target="_blank" rel="noopener noreferrer" className="footer-link">
                   <FontAwesomeIcon icon={faEnvelope} size="lg" className="footer-link-icon" />
                   <Text size="2">{t('footer.tempMail')}</Text>
                 </a>

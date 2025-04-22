@@ -12,9 +12,9 @@ import (
 var (
 	cfgFile string
 	rootCmd = &cobra.Command{
-		Use:   "xugou-agent",
-		Short: "Xugou Agent - 系统监控客户端",
-		Long: `Xugou Agent 是一个系统监控客户端，用于收集系统信息并上报到监控服务器。
+		Use:   "agent",
+		Short: "Agent - 系统监控客户端",
+		Long: `Agent 是一个系统监控客户端，用于收集系统信息并上报到监控服务器。
 它可以收集 CPU、内存、磁盘、网络等系统信息，并定期上报到指定的服务器。`,
 	}
 )

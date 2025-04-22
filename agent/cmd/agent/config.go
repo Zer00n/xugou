@@ -13,8 +13,8 @@ import (
 func init() {
 	configCmd := &cobra.Command{
 		Use:   "config",
-		Short: "配置 Xugou Agent",
-		Long:  `配置 Xugou Agent 的服务器地址、API 令牌等设置`,
+		Short: "配置 Agent",
+		Long:  `配置 Agent 的服务器地址、API 令牌等设置`,
 		Run:   runConfig,
 	}
 
